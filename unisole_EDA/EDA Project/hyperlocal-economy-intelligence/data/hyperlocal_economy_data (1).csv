@@ -1,0 +1,201 @@
+area_id,area_name,city,area_type,locality_type,pincode,retail_shops,restaurants,banks_atms,medical_facilities,educational_centers,parking_lots,vacant_shops,pedestrian_count_15min,vehicle_count_15min,footfall_intensity,road_condition,street_lighting,cleanliness,avg_daily_customers,avg_transaction_value,monthly_rent,business_growth,property_price_sqft,residential_rent_1bhk,property_trend,google_rating,google_reviews_count,zomato_restaurants,population_estimate,last_survey_date,competition_level,parking_availability,main_issue,news_mentions_6months
+AREA_001,Sector 17 Market,Patiala,Urban,Commercial,143684,43,27,10,5,4,3,3,275,149,High,5,5,4,130,1324,31848,Growing,6245,19108,Falling,4.5,670,27,37039,2025-01-05,High,Easy,Poor infrastructure,13
+AREA_002,Sector 22,Chandigarh,Semi-Urban,Mixed,141220,25,13,7,5,1,0,4,116,51,Medium,3,3,3,76,763,16898,Growing,4807,10138,Falling,4.1,1453,13,33023,2025-01-23,Low,Easy,High rent,9
+AREA_003,Sector 35,Patiala,Urban,Commercial,,,,,4,3,,NA,,177,,6,5,,,,,,,,Falling,,,,,,Low,,,
+AREA_004,Sector 43,Patiala,Urban,Commercial,148023,51,21,12,8,6,4,6,278,104,High,4,4,4,181,1175,40822,Growing,7361,24493,Rising,4.3,2483,21,30350,2025-01-17,High,Moderate,High rent,16
+AREA_005,Sector 8,Zirakpur,Urban,Mixed,148450,28,17,10,7,5,3,1,144,67,Medium,5,4,4,78,1388,33258,Growing,6404,19954,Falling,3.4,1897,17,46404,2025-01-07,High,Moderate,High rent,8
+AREA_006,Sector 15,Chandigarh,Semi-Urban,Commercial,142246,31,15,4,3,4,0,5,83,57,Medium,4,4,3,55,664,21822,Stable,3576,13093,Rising,3.3,2093,15,18357,2025-01-06,Low,Easy,High rent,13
+AREA_007,Sector 26,Ludhiana,Semi-Urban,Mixed,144807,24,14,3,2,2,3,1,66,31,Medium,4,4,3,36,559,13210,Stable,4223,7926,Rising,3.9,287,14,25239,2025-01-17,Low,Difficult,parking shortage,9
+AREA_008,Sector 9,Shimla,Semi-Urban,Commercial,140362,21,14,6,4,4,1,2,62,26,Medium,3,3,2,19,813,15331,Declining,4174,9198,Stable,3.6,1906,14,23865,2025-01-01,Low,Easy,High rent,3
+AREA_009,Sector 11,Karnal,Rural,Mixed,,,,,1,2,,NA,,21,,6,3,,,,,,,,Rising,,,,,,Low,,,
+AREA_010,Sector 19,Zirakpur,Urban,Commercial,147942,48,34,10,7,7,5,5,234,159,High,5,4,4,124,738,46525,Declining,6658,27915,Stable,4.4,1625,34,44616,2025-01-03,Medium,Difficult,High rent,10
+AREA_011,Sector 20,Patiala,Urban,Commercial,141480,64,28,10,9,6,3,4,266,87,High,5,4,4,148,885,34819,Growing,6088,20891,Rising,3.9,579,28,45653,2025-01-17,Low,Moderate,parking shortage,11
+AREA_012,Sector 34,Ambala,Urban,Commercial,141007,54,32,6,5,4,3,3,206,71,High,4,4,4,90,1363,47849,Declining,7929,28709,Rising,4.6,2422,32,46762,2025-01-20,Low,Difficult,Poor infrastructure,13
+AREA_013,Sector 38,Mohali,Urban,Commercial,140790,61,22,11,6,6,2,11,253,135,High,5,5,4,141,667,42774,Declining,7463,25664,Stable,4.7,1907,22,48646,2025-01-16,Low,Easy,Poor infrastructure,7
+AREA_014,Sector 40,Panchkula,Semi-Urban,Residential,142749,34,15,9,1,2,2,5,116,75,Medium,3,4,3,49,1059,18034,Declining,4437,10820,Rising,4.2,806,15,28597,2025-01-14,High,Moderate,High rent,
+AREA_015,Industrial Area Phase 1,Jalandhar,Semi-Urban,Residential,148705,30,9,3,3,3,1,1,106,36,Medium,4,3,3,66,1462,15531,Growing,4671,9318,Stable,4.0,714,9,17271,2025-01-14,High,Easy,High rent,4
+AREA_016,Industrial Area Phase 2,Zirakpur,Rural,Residential,149961,9,2,4,2,4,,0,42,19,Low,3,3,3,28,1407,7586,Declining,2682,4551,Stable,4.3,920,2,10587,2025-01-20,High,,Low footfall,
+AREA_017,Manimajra,Karnal,Semi-Urban,Mixed,146471,28,9,4,2,1,0,3,101,54,Medium,3,4,3,64,1188,12017,Declining,3873,7210,Stable,3.5,1390,9,29520,2025-01-05,High,Difficult,parking shortage,7
+AREA_018,Raipur Khurd,Solan,Semi-Urban,Residential,144959,30,9,9,4,2,1,5,119,60,Medium,3,4,2,74,750,14580,Declining,3762,8748,Rising,4.0,1417,9,29523,2025-01-20,Low,Moderate,Poor infrastructure,12
+AREA_019,Dhanas,Chandigarh,Rural,Mixed,140535,8,6,5,4,1,2,0,20,10,Low,2,3,2,7,1208,5078,Declining,2633,3046,Falling,3.4,1670,6,21032,2025-01-04,Low,Easy,Poor infrastructure,7
+AREA_020,IT Park Phase 8,Shimla,Rural,Commercial,143581,9,5,5,3,2,0,1,49,32,Low,2,2,2,21,680,8920,Declining,2576,5352,Falling,4.1,1767,5,6145,2025-01-10,Low,Difficult,High rent,
+AREA_021,Phase 3B2,Panchkula,Semi-Urban,Mixed,146672,34,15,9,6,3,1,6,115,39,Medium,3,3,3,47,958,21648,Declining,4006,12988,Stable,4.2,467,15,34053,2025-01-24,Medium,Easy,parking shortage,10
+AREA_022,Phase 5,Zirakpur,Semi-Urban,Commercial,141729,29,8,3,1,2,3,3,63,30,Medium,4,3,2,23,1464,18684,Growing,4245,11210,Rising,4.4,475,8,15143,2025-01-26,High,Difficult,High rent,0
+AREA_023,Phase 7,Ludhiana,Semi-Urban,Mixed,140583,29,14,2,4,5,,3,91,52,Medium,4,3,2,39,646,15885,Declining,3869,9531,Falling,4.6,1343,14,21108,2025-01-26,Low,,parking shortage,
+AREA_024,Phase 9,Chandigarh,Semi-Urban,Commercial,144414,34,12,7,5,2,1,3,110,36,Medium,4,3,3,66,1202,14342,Declining,4132,8605,Rising,3.2,407,12,20555,2025-01-03,Medium,Moderate,parking shortage,3
+AREA_025,Phase 10,Solan,Semi-Urban,Commercial,141982,34,15,8,6,3,0,6,70,39,Medium,4,4,3,41,896,19290,Growing,3604,11574,Stable,3.8,1645,15,27190,2025-01-01,Low,Easy,Low footfall,
+AREA_026,Phase 11,Shimla,Rural,Mixed,145060,6,3,8,1,2,3,1,48,28,Low,2,2,3,15,857,6366,Declining,2541,3819,Stable,3.5,783,3,7697,2025-01-15,Medium,Moderate,High rent,10
+AREA_027,Sector 70,Patiala,Rural,Residential,,,,,1,4,,0shops,,15,Low,,3,,,,,,,,Falling,,,,,,High,,,
+AREA_028,Sector 82,Mohali,Urban,Mixed,149629,44,12,,7,6,,5,135,59,Medium,4,4,4,84,,33140,Declining,5910,,Rising,3.5,,,39110,2025-01-15,High,,,
+AREA_029,Sector 88,Jalandhar,Rural,Mixed,140135,14,4,5,3,3,0,2,27,18,Low,2,3,2,16,1185,5177,Stable,2931,3106,Rising,3.7,901,4,16081,2025-01-17,Medium,Moderate,Low footfall,2
+AREA_030,Kharar Main Market,Chandigarh,Semi-Urban,Mixed,144340,29,11,3,3,2,0,3,68,34,Medium,3,4,2,26,1492,17373,Declining,4088,10423,Falling,4.5,833,11,18381,2025-01-28,High,Easy,parking shortage,11
+AREA_031,Kharar Landran Road,Ambala,Semi-Urban,Residential,140350,25,14,4,6,1,3,4,70,24,Medium,3,3,2,26,1120,19766,Declining,3569,11859,Stable,4.3,174,14,18597,2025-01-09,High,Easy,Poor infrastructure,5
+AREA_032,Kurali,Mohali,Semi-Urban,Residential,147142,21,11,5,1,3,2,3,67,27,Medium,4,3,3,31,897,15965,Stable,3947,9579,Stable,3.7,1070,11,21528,2025-01-24,High,Moderate,High rent,7
+AREA_033,Mullanpur,Panchkula,Semi-Urban,Commercial,143144,30,11,3,4,2,0,4,94,35,Medium,3,3,2,49,1201,20527,Declining,3778,12316,Falling,4.1,114,11,21168,2025-01-08,Low,Easy,parking shortage,5
+AREA_034,Nayagaon,Karnal,Rural,Residential,145494,14,3,7,5,1,2,0,49,28,Low,2,3,3,19,841,5179,Stable,2941,3107,Stable,4.1,1331,3,14220,2025-01-07,Medium,Moderate,parking shortage,10
+AREA_035,Derabassi,Chandigarh,Semi-Urban,Residential,140750,31,11,8,2,4,2,4,65,41,Medium,4,4,2,41,650,20976,Declining,4758,12585,Stable,3.6,597,11,19304,2025-01-07,Low,Difficult,parking shortage,9
+AREA_036,Dera Bassi Industrial,Solan,Semi-Urban,Commercial,141331,31,14,3,5,1,3,3,90,36,Medium,3,3,2,30,1126,13306,Stable,4997,7983,Rising,3.4,1824,14,32520,2025-01-14,Medium,Difficult,High rent,12
+AREA_037,Landran College Area,Chandigarh,Urban,Commercial,141262,57,29,10,9,6,5,5,251,163,High,4,4,4,153,671,30664,Stable,7400,18398,Falling,4.4,2485,29,30935,2025-01-25,High,Difficult,Poor infrastructure,14
+AREA_038,Banur,Jalandhar,Semi-Urban,Residential,148704,24,10,3,1,4,0,1,96,35,Medium,4,4,3,56,987,12139,Declining,4935,7283,Falling,3.8,546,10,31476,2025-01-02,Low,Easy,Poor infrastructure,6
+AREA_039,Lalru,Ambala,Rural,Residential,,,,,4,1,,NA,,22,,6,3,,,,,,,,Rising,,,,,,Low,,,
+AREA_040,Gharuan,Mohali,Urban,Residential,148664,5,2,6,4,4,5,0,21,9,Medium,5,4,3,14,1443,9703,Declining,2027,5821,Falling,4.4,1680,2,49439,2025-01-18,Medium,Moderate,Low footfall,18
+AREA_041,Morinda,Zirakpur,Urban,Mixed,149108,41,20,6,7,4,3,5,197,124,Medium,4,4,4,95,607,26805,Growing,5321,16083,Rising,3.7,904,20,33519,2025-01-26,Low,Easy,Poor infrastructure,13
+AREA_042,Airport Road,Patiala,Semi-Urban,Mixed,143444,28,13,6,5,4,0,2,104,58,Medium,3,3,2,35,890,12458,Growing,3844,7474,Rising,4.0,350,13,19002,2025-01-02,Low,Easy,Low footfall,8
+AREA_043,Sector 5,Panchkula,Semi-Urban,Residential,146029,24,9,5,1,2,3,1,68,41,Medium,4,3,2,45,729,18675,Growing,3500,11205,Rising,3.6,484,9,15781,2025-01-22,High,Easy,Low footfall,13
+AREA_044,Sector 9,Patiala,Urban,Commercial,146293,47,31,,4,7,,6,261,114,High,4,5,4,128,,37634,Declining,6634,,Stable,3.5,,,32863,2025-01-19,High,,,
+AREA_045,Sector 12,Zirakpur,Semi-Urban,Mixed,146569,20,8,9,2,3,0,3,114,70,Medium,4,4,3,35,1266,19592,Declining,3801,11755,Rising,3.6,2069,8,26316,2025-01-17,Low,Difficult,High rent,0
+AREA_046,Sector 14,Amritsar,Semi-Urban,Mixed,142414,21,8,6,1,4,2,3,83,25,Medium,3,3,3,46,1018,17315,Declining,4312,10389,Rising,4.0,159,8,22273,2025-01-23,Medium,Easy,High rent,10
+AREA_047,Sector 20,Patiala,Rural,Mixed,148996,10,6,2,5,5,0,1,30,9,Low,3,2,2,15,1229,8541,Declining,2933,5124,Rising,4.7,785,6,8738,2025-01-14,High,Easy,High rent,0
+AREA_048,Mansa Devi Complex,Amritsar,Semi-Urban,Commercial,142884,24,14,9,2,5,3,3,91,30,Medium,4,4,2,40,1486,13532,Growing,4941,8119,Falling,3.8,1238,14,25716,2025-01-17,Low,Easy,Poor infrastructure,9
+AREA_049,Industrial Area,Mohali,Semi-Urban,Residential,142741,20,12,6,4,5,0,3,91,32,Medium,4,4,3,45,509,17780,Declining,3906,10668,Rising,4.2,1201,12,26164,2025-01-21,High,Easy,parking shortage,5
+AREA_050,Kalka,Jalandhar,Semi-Urban,Residential,144648,20,11,8,2,2,1,2,69,27,Medium,3,3,2,28,1193,21226,Declining,4591,12735,Stable,3.4,1871,11,17626,2025-01-27,Low,Difficult,Poor infrastructure,4
+AREA_051,Pinjore,Mohali,Semi-Urban,Mixed,148566,21,9,8,6,4,1,2,68,34,Medium,4,4,3,25,1361,19567,Stable,4326,11740,Rising,4.6,537,9,17150,2025-01-01,Low,Difficult,parking shortage,10
+AREA_052,Barwala,Mohali,Semi-Urban,Mixed,142078,29,12,7,6,5,3,5,74,26,Medium,4,3,3,29,1383,12179,Growing,4230,7307,Rising,4.2,1883,12,19923,2025-01-02,Medium,Difficult,Poor infrastructure,2
+AREA_053,Zirakpur Main Market,Karnal,Rural,Residential,143727,11,5,,3,4,,1,35,12,Low,2,3,3,11,,8329,Declining,2551,,Falling,3.8,,,8972,2025-01-19,High,,,
+AREA_054,VIP Road,Solan,Semi-Urban,Mixed,147544,27,14,8,1,2,0,3,103,41,Medium,3,4,2,48,502,18440,Growing,4771,11064,Falling,3.3,1346,14,26626,2025-01-15,High,Moderate,Poor infrastructure,2
+AREA_055,Peer Muchalla,Ambala,Semi-Urban,Residential,147549,21,13,8,1,3,3,3,106,71,Medium,3,4,2,34,864,15365,Declining,4409,9219,Rising,4.1,286,13,22896,2025-01-14,Low,Difficult,Poor infrastructure,10
+AREA_056,Baltana,Mohali,Urban,Commercial,142133,64,27,,6,4,,4,~265,88,High,4,4,4,85,,38072,Declining,6795/-,,Stable,3.7,,,40337,15-01-2025,High,,,
+AREA_057,Lohgarh,Amritsar,Rural,Mixed,142667,10,4,6,1,3,3,0,33,11,Low,3,2,3,18,506,5108,Declining,2892,3064,Falling,4.0,1801,4,19658,2025-01-15,Low,Difficult,parking shortage,0
+AREA_058,Gazipur,Jalandhar,Semi-Urban,Mixed,149816,29,10,7,4,3,1,1,98,54,Medium,4,3,3,51,1208,21871,Stable,4431,13122,Falling,3.8,2088,10,29245,2025-01-21,Low,Difficult,Poor infrastructure,14
+AREA_059,Ambala Cantt,Karnal,Rural,Mixed,142843,13,6,2,6,4,1,0,41,18,Low,2,2,2,14,748,5648,Declining,2678,3388,Stable,4.7,855,6,5779,2025-01-06,High,Difficult,Low footfall,2
+AREA_060,Ambala City Market,Panchkula,Semi-Urban,Residential,147217,26,12,3,3,2,2,4,111,56,Medium,4,4,3,46,1161,20774,Declining,4072,12464,Rising,3.9,1973,12,22601,2025-01-21,Medium,Easy,High rent,11
+AREA_061,Saha,Patiala,Urban,Mixed,143428,42,19,7,5,3,5,4,146,93,Medium,5,5,3,92,903,29975,Stable,5094,17985,Stable,4.0,1811,19,35037,2025-01-28,Low,Moderate,parking shortage,16
+AREA_062,Naraingarh,Solan,Semi-Urban,Commercial,144476,21,15,5,5,2,,3,91,38,Medium,3,3,3,39,Rs 1266,18867,Declining,4876,11320,Stable,4.4,,15,24015,2025-01-12,Low,,High rent,
+AREA_063,Shahzadpur,Solan,Rural,Mixed,144635,5,5,9,6,3,0,0,35,24,Low,2,3,3,22,845,9341,Declining,2542,5604,Falling,3.4,1884,5,8433,2025-01-19,Low,Easy,parking shortage,7
+AREA_064,Rajpura,Panchkula,Urban,Commercial,140744,59,31,5,9,3,3,10,275,122,High,5,4,3,129,1414,48204,Stable,6598,28922,Stable,4.3,985,31,34474,2025-01-23,Low,Difficult,Low footfall,6
+AREA_065,Nabha,Amritsar,Semi-Urban,Commercial,142023,30,13,3,5,3,1,1,69,22,Medium,3,4,3,36,810,16028,Growing,4084,9616,Falling,3.2,544,13,18452,2025-01-17,Low,Easy,High rent,0
+AREA_066,Samana,Panchkula,Semi-Urban,Commercial,140030,27,11,3,6,5,2,3,88,60,Medium,4,4,3,52,1354,12239,Growing,4913,7343,Rising,4.5,550,11,30092,2025-01-11,Low,Easy,parking shortage,0
+AREA_067,Patran,Amritsar,Rural,Commercial,147181,12,3,7,1,3,0,1,30,11,Low,2,3,2,15,1189,6346,Growing,2158,3807,Stable,3.8,1342,3,8419,2025-01-10,Low,Difficult,Poor infrastructure,1
+AREA_068,Ferozepur Road,Panchkula,Semi-Urban,Commercial,145320,31,9,7,1,2,0,5,102,53,Medium,3,3,2,59,925,14271,Growing,4024,8562,Falling,3.3,2052,9,23358,2025-01-25,Low,Difficult,High rent,4
+AREA_069,Model Town,Ambala,Rural,Commercial,149293,12,6,5,1,4,3,0,36,11,Low,3,2,2,24,553,9009,Growing,2916,5405,Stable,3.6,1177,6,23742,2025-01-16,Low,Moderate,High rent,1
+AREA_070,Civil Lines,Zirakpur,Urban,Commercial,149728,47,34,8,4,6,2,4,254,121,High,5,4,4,81,978,33089,Declining,6903,19853,Rising,4.4,1939,34,43917,2025-01-12,High,Moderate,parking shortage,19
+AREA_071,PAU Campus,Mohali,Semi-Urban,Mixed,142125,26,8,7,3,5,3,1,94,49,Medium,3,4,3,65,944,13829,Declining,4100,8297,Stable,3.9,1238,8,31320,2025-01-27,Low,Easy,parking shortage,0
+AREA_072,Dugri,Zirakpur,Semi-Urban,Residential,142638,24,9,5,6,1,,3,104,67,Medium,4,3,3,34,675,13124,Growing,4580,7874,Stable,4.2,927,9,19337,2025-01-13,High,,High rent,
+AREA_073,Sarabha Nagar,Chandigarh,Rural,Mixed,149992,9,5,2,6,5,2,0,37,22,Low,3,3,3,12,1478,5096,Stable,2547,3057,Stable,3.2,858,5,12732,2025-01-11,Medium,Difficult,High rent,2
+AREA_074,Rajguru Nagar,Chandigarh,Urban,Commercial,140480,68,27,10,7,4,3,13,273,179,High,5,5,4,120,890,38475,Stable,6221,23085,Rising,3.8,1518,27,30124,2025-01-13,High,Easy,High rent,13
+AREA_075,Model Town JL,Patiala,Urban,Residential,148970,10,2,8,5,7,4,0,37,13,Medium,4,5,3,12,1026,6893,Growing,2997,4135,Stable,4.4,2019,2,36997,2025-01-17,Low,Easy,High rent,13
+AREA_076,Civil Lines JL,Ludhiana,Semi-Urban,Commercial,148934,24,11,2,1,4,3,2,87,30,Medium,4,3,2,45,1486,20076,Growing,4471,12045,Rising,3.4,517,11,32951,2025-01-20,High,Moderate,High rent,2
+AREA_077,GT Road Jalandhar,Chandigarh,Urban,Mixed,148147,44,12,8,7,6,2,2,191,110,Medium,4,4,3,129,729,24419,Growing,5172,14651,Rising,3.7,970,12,44776,2025-01-26,High,Difficult,parking shortage,5
+AREA_078,Nakodar,Panchkula,Semi-Urban,Commercial,141733,23,8,8,4,1,1,4,90,49,Medium,3,4,3,40,1193,20424,Declining,3858,12254,Falling,3.7,1360,8,19737,2025-01-17,Low,Easy,Poor infrastructure,5
+AREA_079,Phillaur,Chandigarh,Urban,Commercial,140715,69,21,6,8,3,3,13,265,85,High,5,4,4,108,523,43088,Growing,6404,25852,Falling,3.4,2441,21,48453,2025-01-27,Low,Moderate,High rent,7
+AREA_080,Golden Temple Area,Chandigarh,Rural,Commercial,148230,14,6,2,5,4,1,0,40,16,Low,2,3,3,26,1358,8945,Declining,2582,5367,Rising,4.0,592,6,19598,2025-01-10,Low,Difficult,Poor infrastructure,6
+AREA_081,Ranjit Avenue,Chandigarh,Urban,Commercial,140347,59,29,9,4,3,5,7,252,136,High,4,4,3,124,1149,43363,Declining,6205,26017,Stable,4.0,1426,29,38965,2025-01-08,Medium,Easy,Poor infrastructure,15
+AREA_082,Lawrence Road,Mohali,Semi-Urban,Commercial,146994,24,14,9,6,2,3,3,101,55,Medium,3,3,2,67,518,17026,Declining,4495,10215,Stable,3.3,527,14,26243,2025-01-14,High,Moderate,Poor infrastructure,14
+AREA_083,Mall Road ASR,Amritsar,Semi-Urban,Mixed,146658,24,11,9,6,5,2,2,117,58,Medium,4,3,3,35,632,12541,Stable,3961,7524,Stable,3.7,310,11,18352,2025-01-05,Low,Easy,High rent,4
+AREA_084,Chheharta,Ludhiana,Semi-Urban,Commercial,144441,17,8,6,3,2,1,1,64,33,Medium,3,3,2,24,1409,15348,Declining,4700,9208,Stable,4.0,407,8,25807,2025-01-16,Low,Difficult,parking shortage,11
+AREA_085,Mall Road Shimla,Ambala,Rural,Residential,145305,12,2,3,4,3,3,1,44,30,Low,2,2,2,15,677,9736,Growing,2975,5841,Falling,3.3,1469,2,13552,2025-01-23,Low,Easy,parking shortage,14
+AREA_086,Lakkar Bazaar,Mohali,Semi-Urban,Commercial,,24,10,,2,5,,4,~94,62,Medium,4,3,3,,,20224,,4286/-,,Stable,4.5,,,18721,15-01-2025,High,,,
+AREA_087,Lower Bazaar,Ambala,Urban,Commercial,149276,53,33,5,9,6,3,4,244,166,High,4,5,3,158,1288,49140,Stable,6579,29484,Stable,3.3,1870,33,37169,2025-01-17,Medium,Easy,High rent,
+AREA_088,Sanjauli,Amritsar,Semi-Urban,Mixed,,19,,,6,5,,1,,58,Medium,,3,3,,,,,,,Rising,,,,34284,,High,,,
+AREA_089,Dhalli,Mohali,Urban,Commercial,143822,62,28,10,4,3,3,9,227,155,High,5,5,3,115,1337,40588,Declining,6234,24352,Stable,4.6,771,28,33240,2025-01-24,High,Moderate,Poor infrastructure,15
+AREA_090,Baddi Industrial,Panchkula,Urban,Commercial,,52,,,8,4,,9,,89,High,,5,3,,,,,,,Falling,,,,36295,,High,,,
+AREA_091,Nalagarh,Ludhiana,Semi-Urban,Mixed,147359,15,8,2,1,4,1,2,106,40,Medium,4,3,3,42,1389,20268,Declining,4839,12160,Rising,3.3,1696,8,33908,2025-01-06,High,Difficult,Poor infrastructure,14
+AREA_092,Parwanoo,Ludhiana,Semi-Urban,Commercial,145534,21,9,7,5,4,1,2,62,42,Medium,3,4,2,26,1319,19183,Declining,4276,11509,Rising,4.0,1006,9,18276,2025-01-27,Low,Easy,parking shortage,9
+AREA_093,Solan Town,Mohali,Urban,Commercial,,,,,4,5,,NA,,135,,6,4,,,,,,,,Rising,,,,,,High,,,
+AREA_094,Kasauli,Panchkula,Semi-Urban,Commercial,141996,18,10,8,1,1,0,3,71,42,Medium,3,3,3,36,794,18023,Growing,3860,10813,Rising,4.1,945,10,26656,2025-01-28,Low,Difficult,High rent,12
+AREA_095,Karnal Market,Shimla,Semi-Urban,Mixed,149499,22,15,2,3,1,,1,84,38,Medium,3,3,2,42,1016,19243,Declining,4444,11545,Falling,4.7,1912,15,30895,2025-01-13,Low,,High rent,
+AREA_096,Sector 13 Karnal,Karnal,Semi-Urban,Residential,148813,29,11,8,6,1,2,3,119,62,Medium,3,3,3,68,850,19425,Stable,3822,11655,Stable,3.6,2032,11,22367,2025-01-07,Low,Moderate,High rent,3
+AREA_097,Gharaunda,Panchkula,Urban,Mixed,,,,,8,3,,3shops,,53,Medium,,4,,,,,,,,Falling,,,,,,High,,,
+AREA_098,Nilokheri,Amritsar,Semi-Urban,Residential,149160,18,10,7,5,4,3,3,61,41,Medium,3,4,2,30,1028,20282,Declining,4022,12169,Falling,4.2,1105,10,28286,2025-01-12,Medium,Moderate,High rent,8
+AREA_099,Sector 17 Market Zone 2,Jalandhar,Rural,Residential,147347,5,4,3,1,2,0,0,46,16,Low,3,2,3,23,696,6344,Declining,2572,3806,Stable,3.9,1133,4,17489,2025-01-04,Low,Easy,High rent,6
+AREA_100,Sector 22 Zone 2,Panchkula,Urban,Residential,142062,11,5,6,4,7,4,0,31,12,Medium,5,5,3,19,1311,5891,Growing,2270,3534,Rising,3.2,853,5,47766,2025-01-09,Low,Easy,parking shortage,
+AREA_101,Sector 35 Zone 2,Chandigarh,Semi-Urban,Commercial,142864,15,8,8,1,2,3,2,89,31,Medium,3,3,2,26,980,16768,Declining,4992,10060,Stable,4.1,600,8,30824,2025-01-04,Low,Difficult,parking shortage,7
+AREA_102,Sector 43 Zone 2,Zirakpur,Urban,Mixed,146416,27,17,8,4,6,3,4,144,81,Medium,5,5,3,88,847,34183,Declining,6194,20509,Rising,3.8,1984,17,33307,2025-01-02,Low,Moderate,parking shortage,5
+AREA_103,Sector 8 Zone 2,Panchkula,Semi-Urban,Mixed,143532,19,10,5,6,4,3,2,109,38,Medium,3,4,3,32,563,13419,Declining,3808,8051,Falling,4.0,409,10,27671,2025-01-07,Low,Easy,parking shortage,3
+AREA_104,Sector 15 Zone 2,Mohali,Urban,Commercial,143345,65,25,12,6,5,3,8,287,183,High,5,5,3,103,517,32926,Stable,7555,19755,Falling,3.4,2080,25,43908,2025-01-05,Low,Difficult,Low footfall,13
+AREA_105,Sector 26 Zone 2,Zirakpur,Semi-Urban,Mixed,140645,19,15,9,1,2,3,3,69,39,Medium,4,4,3,30,927,21480,Declining,4751,12888,Falling,4.3,849,15,24339,2025-01-04,Low,Moderate,Poor infrastructure,12
+AREA_106,Sector 9 Zone 2,Solan,Semi-Urban,Residential,,15,9,,6,5,,1,~108,43,Medium,4,4,2,,,21134,,4574/-,,Falling,3.6,,,16767,15-01-2025,Low,,,
+AREA_107,Sector 11 Zone 2,Solan,Rural,Commercial,140352,13,2,5,4,3,0,0,20,12,Low,3,3,2,9,503,8277,Growing,2222,4966,Rising,4.5,2023,2,19071,2025-01-16,Low,Difficult,Poor infrastructure,10
+AREA_108,Sector 19 Zone 2,Solan,Semi-Urban,Mixed,149309,23,11,9,3,1,2,3,102,45,Medium,4,3,3,37,1265,13720,Growing,4531,8232,Rising,4.0,311,11,32144,2025-01-09,Low,Easy,High rent,10
+AREA_109,Sector 20 Zone 2,Amritsar,Rural,Residential,149206,13,5,8,6,4,3,2,47,20,Low,3,2,2,23,934,5699,Declining,2892,3419,Falling,4.3,1966,5,12269,2025-01-09,High,Moderate,Poor infrastructure,2
+AREA_110,Sector 34 Zone 2,Ludhiana,Semi-Urban,Commercial,145580,20,14,7,1,5,0,1,92,31,Medium,3,3,2,39,834,21047,Growing,3910,12628,Falling,3.7,879,14,34359,2025-01-10,Low,Difficult,Low footfall,2
+AREA_111,Sector 38 Zone 2,Zirakpur,Urban,Commercial,143739,55,34,6,6,3,5,9,273,92,High,5,5,4,132,858,43878,Stable,6781,26326,Stable,4.1,694,34,35076,2025-01-17,Medium,Moderate,parking shortage,
+AREA_112,Sector 40 Zone 2,Solan,Semi-Urban,Commercial,149313,23,14,3,1,5,0,3,104,35,Medium,4,4,2,56,844,17528,Growing,4320,10516,Rising,3.3,923,14,30695,2025-01-15,Low,Easy,Poor infrastructure,8
+AREA_113,Industrial Area Phase 1 Zone 2,Chandigarh,Semi-Urban,Mixed,142651,30,13,,3,5,,4,111,76,Medium,4,3,3,39,,12919,Growing,3877,,Rising,4.1,,,29971,2025-01-03,Low,,,
+AREA_114,Industrial Area Phase 2 Zone 2,Panchkula,Urban,Residential,,,,,7,5,,0shops,,7,Medium,,4,,,,,,,,Rising,,,,,,Medium,,,
+AREA_115,Manimajra Zone 2,Ludhiana,Semi-Urban,Mixed,,,,,3,1,,NA,,70,,6,3,,,,,,,,Rising,,,,,,Low,,,
+AREA_116,Raipur Khurd Zone 2,Zirakpur,Urban,Residential,,,,,7,3,,NA,,22,,6,5,,,,,,,,Stable,,,,,,Low,,,
+AREA_117,Dhanas Zone 2,Amritsar,Semi-Urban,Commercial,143768,16,13,5,4,5,1,3,85,54,Medium,3,3,3,27,886,20496,Growing,4578,12297,Rising,3.7,567,13,32845,2025-01-14,Low,Easy,parking shortage,11
+AREA_118,IT Park Phase 8 Zone 2,Zirakpur,Semi-Urban,Mixed,143734,32,9,3,4,4,0,5,113,78,Medium,3,4,3,63,1070,18992,Growing,3891,11395,Rising,3.9,959,9,33337,2025-01-18,Low,Moderate,Poor infrastructure,1
+AREA_119,Phase 3B2 Zone 2,Ambala,Urban,Commercial,148583,56,24,9,7,3,5,9,292,121,High,5,4,4,131,1297,33869,Declining,6785,20321,Falling,3.5,2214,24,34896,2025-01-09,Low,Easy,High rent,5
+AREA_120,Phase 5 Zone 2,Ambala,Urban,Mixed,148633,40,14,10,5,3,5,4,120,49,Medium,5,4,4,62,807,22684,Growing,6128,13610,Rising,3.8,1545,14,31097,2025-01-15,Low,Moderate,parking shortage,16
+AREA_121,Phase 7 Zone 2,Chandigarh,Semi-Urban,Residential,146368,17,14,4,3,2,2,2,86,53,Medium,4,4,3,45,799,21929,Growing,4193,13157,Rising,3.6,1879,14,23613,2025-01-02,Low,Easy,High rent,13
+AREA_122,Phase 9 Zone 2,Ambala,Semi-Urban,Residential,148170,20,14,6,2,1,2,1,111,46,Medium,3,4,3,46,672,21633,Declining,4207,12979,Rising,4.0,1831,14,15450,2025-01-18,High,Easy,Poor infrastructure,2
+AREA_123,Phase 10 Zone 2,Chandigarh,Rural,Residential,140342,6,2,7,1,2,,1,48,14,Low,2,3,2,14,665,6059,Declining,2482,3635,Rising,4.5,1285,2,8864,2025-01-09,Low,,parking shortage,
+AREA_124,Phase 11 Zone 2,Mohali,Semi-Urban,Residential,144816,27,9,2,3,4,3,5,97,43,Medium,3,3,2,40,860,17613,Declining,4140,10567,Rising,3.2,238,9,16853,2025-01-02,High,Difficult,Low footfall,14
+AREA_125,Sector 70 Zone 2,Zirakpur,Rural,Residential,147054,11,2,4,3,1,2,1,34,17,Low,2,3,3,23,1342,7733,Stable,2431,4639,Rising,4.2,133,2,21979,2025-01-14,Medium,Moderate,parking shortage,0
+AREA_126,Sector 82 Zone 2,Ludhiana,Semi-Urban,Mixed,148872,15,8,2,6,5,1,1,111,66,Medium,4,4,3,61,761,15789,Declining,3955,9473,Stable,3.8,248,8,32861,2025-01-24,High,Difficult,Poor infrastructure,1
+AREA_127,Sector 88 Zone 2,Ambala,Urban,Residential,146380,8,2,9,6,5,,1,48,25,Medium,5,5,3,22,Rs 1451,8117,Stable,2666,4870,Falling,4.7,,2,32383,2025-01-23,Low,,parking shortage,
+AREA_128,Kharar Main Market Zone 2,Zirakpur,Urban,Mixed,144032,43,14,11,5,5,4,5,130,43,Medium,5,5,4,51,678,20623,Growing,5209,12373,Falling,3.5,2208,14,49265,2025-01-06,Low,Difficult,High rent,9
+AREA_129,Kharar Landran Road Zone 2,Chandigarh,Rural,Residential,148441,5,4,6,6,4,2,0,46,13,Low,3,3,3,14,1378,6005,Declining,2578,3603,Rising,3.9,381,4,7740,2025-01-09,Low,Moderate,Poor infrastructure,12
+AREA_130,Kurali Zone 2,Panchkula,Semi-Urban,Mixed,144297,25,9,2,4,1,2,3,111,51,Medium,4,4,3,42,729,15757,Declining,3605,9454,Rising,3.6,509,9,16554,2025-01-27,High,Moderate,High rent,4
+AREA_131,Mullanpur Zone 2,Ambala,Urban,Commercial,149452,50,32,12,8,7,2,6,232,133,High,4,4,4,108,673,40416,Stable,7722,24249,Falling,4.6,1482,32,30864,2025-01-27,Low,Difficult,High rent,19
+AREA_132,Nayagaon Zone 2,Ambala,Semi-Urban,Commercial,148135,16,10,9,2,1,1,1,84,32,Medium,3,4,2,56,803,15935,Declining,4618,9561,Falling,4.2,1825,10,32133,2025-01-13,Low,Moderate,High rent,3
+AREA_133,Derabassi Zone 2,Amritsar,Semi-Urban,Commercial,142944,31,15,3,3,5,3,5,108,50,Medium,4,4,3,42,1019,14576,Stable,4884,8745,Stable,3.3,348,15,27805,2025-01-04,Low,Difficult,parking shortage,0
+AREA_134,Dera Bassi Industrial Zone 2,Mohali,Urban,Commercial,140607,63,30,9,6,4,5,11,285,136,High,4,5,4,192,1194,30123,Growing,6156,18073,Stable,3.8,2213,30,37503,2025-01-23,Low,Moderate,High rent,16
+AREA_135,Landran College Area Zone 2,Panchkula,Rural,Mixed,144544,10,3,2,3,2,2,0,37,19,Low,2,3,2,19,1249,7912,Declining,2615,4747,Rising,3.7,607,3,14284,2025-01-16,Low,Difficult,High rent,13
+AREA_136,Banur Zone 2,Zirakpur,Rural,Residential,148158,8,6,2,5,4,2,0,28,9,Low,3,2,3,18,919,6842,Growing,2201,4105,Falling,3.6,2080,6,13009,2025-01-27,High,Easy,Low footfall,13
+AREA_137,Lalru Zone 2,Mohali,Urban,Commercial,145993,49,20,12,9,3,2,6,206,78,High,4,5,3,74,1340,34580,Declining,7268,20748,Falling,4.4,1117,20,41895,2025-01-24,High,Moderate,Poor infrastructure,9
+AREA_138,Gharuan Zone 2,Ambala,Urban,Commercial,146543,64,29,5,6,5,2,3,265,128,High,5,5,4,126,1129,30287,Stable,6518,18172,Stable,3.8,1025,29,37959,2025-01-25,Medium,Easy,High rent,8
+AREA_139,Morinda Zone 2,Mohali,Urban,Commercial,146567,66,21,12,8,7,3,5,281,93,High,5,5,4,100,534,40094,Declining,7849,24056,Rising,4.1,1333,21,34486,2025-01-21,Low,Moderate,High rent,10
+AREA_140,Airport Road Zone 2,Panchkula,Urban,Commercial,148880,46,21,11,6,3,4,4,228,124,High,5,4,4,125,794,37759,Declining,7678,22655,Rising,3.4,1226,21,45876,2025-01-20,Low,Easy,Low footfall,19
+AREA_141,Sector 5 Zone 2,Panchkula,Semi-Urban,Commercial,144023,33,15,5,6,3,2,2,105,48,Medium,3,3,2,48,1211,17350,Stable,4348,10410,Falling,4.2,1153,15,16828,2025-01-02,Medium,Difficult,parking shortage,11
+AREA_142,Sector 9 Zone 2,Patiala,Semi-Urban,Commercial,144041,25,12,8,1,5,,4,117,46,Medium,3,3,3,43,Rs 680,16747,Stable,4847,10048,Falling,4.2,,12,16646,2025-01-20,Low,,High rent,
+AREA_143,Sector 12 Zone 2,Karnal,Semi-Urban,Commercial,141208,27,13,2,6,2,1,3,80,34,Medium,3,4,2,40,1405,16065,Growing,4866,9639,Rising,4.0,842,13,25197,2025-01-19,High,Easy,Poor infrastructure,6
+AREA_144,Sector 14 Zone 2,Shimla,Rural,Mixed,147894,11,2,7,3,5,1,0,43,29,Low,2,2,3,27,557,9823,Declining,2125,5893,Rising,4.0,1044,2,5213,2025-01-11,Low,Easy,High rent,2
+AREA_145,Sector 20 Zone 2,Ambala,Urban,Commercial,146596,42,22,12,4,6,,3,228,119,High,4,5,3,142,Rs 1197,38781,Stable,6691,23268,Falling,3.4,,22,41996,2025-01-17,Medium,,parking shortage,
+AREA_146,Mansa Devi Complex Zone 2,Shimla,Semi-Urban,Mixed,140911,29,11,7,1,3,1,1,96,33,Medium,3,4,2,44,1297,18315,Declining,3911,10989,Stable,3.9,652,11,23476,2025-01-08,High,Difficult,parking shortage,7
+AREA_147,Industrial Area Zone 2,Chandigarh,Semi-Urban,Commercial,148040,25,10,7,1,3,1,2,95,39,Medium,4,4,2,53,1222,15441,Stable,3846,9264,Stable,3.3,1093,10,16887,2025-01-24,High,Difficult,Poor infrastructure,10
+AREA_148,Kalka Zone 2,Panchkula,Semi-Urban,Commercial,145514,29,11,3,4,1,0,4,108,59,Medium,3,4,3,60,814,16384,Declining,4545,9830,Rising,4.2,363,11,22044,2025-01-25,Low,Easy,parking shortage,9
+AREA_149,Pinjore Zone 2,Patiala,Urban,Residential,144890,8,5,8,6,4,4,1,39,15,Medium,4,4,3,14,985,9110,Declining,2767,5466,Rising,3.9,1413,5,45231,2025-01-23,Medium,Easy,Poor infrastructure,
+AREA_150,Barwala Zone 2,Patiala,Urban,Commercial,,,,,7,6,,NA,,61,,6,5,,,,,,,,Falling,,,,,,High,,,
+AREA_151,Zirakpur Main Market Zone 2,Mohali,Urban,Commercial,140615,54,25,5,4,3,3,6,223,91,High,5,5,3,76,975,33932,Growing,6137,20359,Stable,4.3,2199,25,31223,2025-01-18,High,Difficult,High rent,10
+AREA_152,VIP Road Zone 2,Karnal,Rural,Residential,147038,11,2,6,6,3,,1,34,19,Low,2,3,3,19,1299,5301,Declining,2784,3180,Rising,3.8,1985,2,19360,2025-01-04,Low,,High rent,
+AREA_153,Peer Muchalla Zone 2,Zirakpur,Urban,Mixed,146845,36,16,6,5,4,,3,167,111,Medium,4,5,4,56,Rs 1233,30309,Declining,5506,18185,Falling,3.7,,16,44549,2025-01-13,High,,High rent,
+AREA_154,Baltana Zone 2,Ambala,Semi-Urban,Residential,149830,16,15,3,4,2,1,2,66,45,Medium,4,4,2,36,801,14413,Declining,4395,8647,Rising,4.6,640,15,33215,2025-01-14,High,Difficult,Low footfall,6
+AREA_155,Lohgarh Zone 2,Solan,Semi-Urban,Mixed,148771,26,15,4,4,5,1,2,99,31,Medium,3,3,3,42,1235,21718,Declining,4989,13030,Falling,3.9,911,15,27089,2025-01-01,Low,Moderate,High rent,3
+AREA_156,Gazipur Zone 2,Zirakpur,Urban,Mixed,143269,28,21,6,5,3,2,3,132,50,Medium,5,5,3,69,1486,30144,Stable,5351,18086,Stable,3.6,2008,21,30969,2025-01-04,Medium,Moderate,Poor infrastructure,10
+AREA_157,Ambala Cantt Zone 2,Chandigarh,Semi-Urban,Residential,141260,19,14,7,2,3,2,3,80,51,Medium,4,3,2,55,1294,14593,Stable,4759,8755,Falling,4.1,433,14,23212,2025-01-01,Low,Difficult,Poor infrastructure,13
+AREA_158,Ambala City Market Zone 2,Zirakpur,Urban,Mixed,140165,26,17,5,5,6,5,2,171,55,Medium,5,4,3,104,1444,25914,Stable,5087,15548,Rising,4.4,779,17,34456,2025-01-23,Low,Difficult,High rent,12
+AREA_159,Saha Zone 2,Karnal,Semi-Urban,Residential,141446,18,8,,6,3,,2,91,39,Medium,4,3,2,60,,17861,Declining,4939,,Falling,3.8,,,32982,2025-01-21,High,,,
+AREA_160,Naraingarh Zone 2,Chandigarh,Urban,Commercial,147516,54,21,,8,6,,5,297,163,High,5,4,3,179,,38797,Declining,6926,,Stable,4.0,,,36308,2025-01-12,High,,,
+AREA_161,Shahzadpur Zone 2,Mohali,Urban,Residential,148440,6,3,12,4,5,2,0,21,14,Medium,5,5,4,9,781,9205,Declining,2252,5523,Rising,4.3,510,3,33315,2025-01-23,High,Easy,High rent,16
+AREA_162,Rajpura Zone 2,Zirakpur,Semi-Urban,Mixed,142614,28,12,4,6,3,1,5,110,69,Medium,4,4,3,46,935,20553,Growing,4412,12331,Rising,3.8,764,12,16848,2025-01-17,Medium,Easy,parking shortage,14
+AREA_163,Nabha Zone 2,Mohali,Semi-Urban,Mixed,140896,27,9,4,3,5,0,2,96,62,Medium,4,4,3,62,894,12037,Growing,3675,7222,Rising,3.2,657,9,15871,2025-01-07,Medium,Difficult,High rent,6
+AREA_164,Samana Zone 2,Zirakpur,Semi-Urban,Residential,140434,23,14,9,3,1,0,3,97,55,Medium,3,3,3,32,1299,16035,Stable,3886,9621,Stable,3.9,1054,14,25213,2025-01-21,Medium,Easy,High rent,2
+AREA_165,Patran Zone 2,Ambala,Urban,Commercial,147093,44,32,11,7,4,5,6,281,153,High,4,4,3,178,504,41292,Growing,6826,24775,Rising,3.9,694,32,34731,2025-01-28,Low,Moderate,parking shortage,
+AREA_166,Ferozepur Road Zone 2,Panchkula,Urban,Commercial,143970,56,21,5,4,7,4,10,296,104,High,4,4,4,192,660,46740,Declining,7830,28044,Rising,3.7,2334,21,41297,2025-01-11,Medium,Easy,parking shortage,15
+AREA_167,Model Town Zone 2,Zirakpur,Semi-Urban,Commercial,144537,18,8,3,5,5,1,2,101,56,Medium,3,4,3,70,1157,17307,Growing,3765,10384,Stable,4.2,996,8,26681,2025-01-05,Low,Easy,Low footfall,0
+AREA_168,Civil Lines Zone 2,Ambala,Urban,Commercial,142490,67,30,10,8,5,5,11,213,120,High,4,4,3,78,1331,46112,Declining,7710,27667,Stable,4.6,1560,30,47793,2025-01-28,Low,Easy,High rent,5
+AREA_169,PAU Campus Zone 2,Solan,Semi-Urban,Residential,144865,34,8,7,6,5,2,3,77,41,Medium,3,3,2,39,1184,14629,Stable,4017,8777,Rising,3.5,373,8,30597,2025-01-04,High,Easy,High rent,10
+AREA_170,Dugri Zone 2,Ambala,Semi-Urban,Commercial,140163,19,10,6,1,4,2,2,103,60,Medium,4,3,3,49,1291,21995,Growing,3707,13197,Rising,4.3,227,10,15567,2025-01-27,High,Moderate,Poor infrastructure,9
+AREA_171,Sarabha Nagar Zone 2,Mohali,Semi-Urban,Commercial,141349,26,11,7,1,2,0,2,96,57,Medium,3,4,3,49,856,20201,Stable,4775,12120,Falling,4.2,892,11,27578,2025-01-06,Medium,Difficult,Low footfall,4
+AREA_172,Rajguru Nagar Zone 2,Panchkula,Semi-Urban,Commercial,146063,15,8,4,1,3,2,1,114,53,Medium,4,3,2,77,941,21051,Declining,4971,12630,Rising,4.4,1440,8,32830,2025-01-06,Low,Moderate,parking shortage,12
+AREA_173,Model Town JL Zone 2,Karnal,Rural,Residential,145692,9,4,7,6,5,3,1,42,14,Low,2,2,3,26,1316,5310,Declining,2920,3186,Rising,3.8,1729,4,17612,2025-01-20,High,Moderate,High rent,12
+AREA_174,Civil Lines JL Zone 2,Solan,Rural,Mixed,145312,5,5,3,4,5,3,0,43,19,Low,3,2,2,25,1294,5832,Declining,2440,3499,Stable,4.7,1250,5,21334,2025-01-01,Medium,Easy,Poor infrastructure,7
+AREA_175,GT Road Jalandhar Zone 2,Karnal,Semi-Urban,Residential,141322,21,10,7,5,4,3,3,101,68,Medium,3,4,2,45,629,14228,Stable,4716,8536,Falling,3.8,405,10,34774,2025-01-05,High,Moderate,Poor infrastructure,9
+AREA_176,Nakodar Zone 2,Panchkula,Urban,Commercial,142396,55,20,11,7,3,3,7,286,111,High,5,5,4,158,938,35890,Growing,7653,21534,Stable,3.8,2341,20,46731,2025-01-05,Medium,Moderate,Low footfall,18
+AREA_177,Phillaur Zone 2,Chandigarh,Urban,Mixed,143932,28,17,8,5,7,4,2,140,49,Medium,4,5,4,49,951,24858,Stable,5748,14914,Falling,4.6,879,17,30696,2025-01-03,Low,Difficult,Poor infrastructure,6
+AREA_178,Golden Temple Area Zone 2,Ludhiana,Semi-Urban,Mixed,144250,28,10,6,3,1,3,3,72,36,Medium,3,3,2,48,623,17444,Declining,4537,10466,Falling,3.6,1012,10,33758,2025-01-19,High,Easy,parking shortage,1
+AREA_179,Ranjit Avenue Zone 2,Ambala,Urban,Commercial,144045,66,28,12,5,4,2,4,269,96,High,5,5,3,150,929,43293,Declining,7261,25975,Stable,4.2,1297,28,32442,2025-01-14,Low,Moderate,Poor infrastructure,18
+AREA_180,Lawrence Road Zone 2,Zirakpur,Semi-Urban,Mixed,,29,,,5,2,,5,,53,Medium,,4,3,,,,,,,Rising,,,,20223,,Low,,,
+AREA_181,Mall Road ASR Zone 2,Jalandhar,Semi-Urban,Residential,147089,31,12,6,2,2,0,6,116,50,Medium,4,3,3,58,978,16173,Growing,3798,9703,Stable,3.3,1692,12,23652,2025-01-26,Low,Easy,Low footfall,5
+AREA_182,Chheharta Zone 2,Amritsar,Semi-Urban,Residential,144001,27,10,6,4,4,3,4,106,61,Medium,3,4,2,69,771,18759,Growing,4629,11255,Stable,4.3,2064,10,34288,2025-01-26,High,Easy,High rent,2
+AREA_183,Mall Road Shimla Zone 2,Mohali,Urban,Residential,144840,9,2,11,9,3,5,0,47,18,Medium,4,4,4,22,908,5845,Stable,2513,3507,Rising,4.3,1259,2,30203,2025-01-08,High,Easy,parking shortage,19
+AREA_184,Lakkar Bazaar Zone 2,Panchkula,Urban,Commercial,144176,49,20,7,5,5,5,3,260,111,High,5,5,3,126,863,44380,Growing,6977,26628,Rising,3.8,1762,20,44133,2025-01-06,High,Difficult,High rent,5
+AREA_185,Lower Bazaar Zone 2,Amritsar,Semi-Urban,Commercial,144484,30,11,7,5,1,3,2,67,43,Medium,3,4,2,39,1176,12247,Growing,4086,7348,Falling,4.3,1720,11,28686,2025-01-20,High,Easy,High rent,
+AREA_186,Sanjauli Zone 2,Amritsar,Rural,Mixed,147953,12,2,8,4,1,,0,39,15,Low,2,2,3,24,Rs 520,9174,Stable,2378,5504,Stable,4.3,,2,7299,2025-01-23,Low,,High rent,
+AREA_187,Dhalli Zone 2,Jalandhar,Semi-Urban,Mixed,144293,22,15,8,4,1,3,2,99,43,Medium,3,4,3,30,1498,14443,Declining,3658,8665,Falling,4.5,915,15,27849,2025-01-18,Low,Difficult,High rent,11
+AREA_188,Baddi Industrial Zone 2,Patiala,Semi-Urban,Residential,146808,17,12,3,1,2,3,3,77,32,Medium,4,4,3,49,518,16816,Declining,3832,10089,Stable,3.3,274,12,27964,2025-01-07,Medium,Easy,High rent,6
+AREA_189,Nalagarh Zone 2,Jalandhar,Semi-Urban,Residential,147567,20,11,3,2,3,3,1,85,37,Medium,4,4,2,34,1156,16340,Declining,4007,9804,Falling,4.3,1115,11,22209,2025-01-18,Low,Difficult,High rent,3
+AREA_190,Parwanoo Zone 2,Patiala,Urban,Commercial,142466,65,27,6,9,5,2,9,204,135,High,5,5,4,112,1272,31455,Declining,6812,18873,Stable,4.2,2122,27,35456,2025-01-20,Medium,Moderate,High rent,9
+AREA_191,Solan Town Zone 2,Zirakpur,Semi-Urban,Commercial,141196,24,9,4,2,4,1,2,107,56,Medium,3,4,3,43,1018,15984,Declining,4426,9590,Stable,3.8,1702,9,23342,2025-01-08,High,Moderate,parking shortage,2
+AREA_192,Kasauli Zone 2,Mohali,Urban,Commercial,,,,,4,5,,5shops,,143,High,,5,,,,,,,,Rising,,,,,,Low,,,
+AREA_193,Karnal Market Zone 2,Jalandhar,Semi-Urban,Mixed,148681,15,15,9,3,2,1,2,111,71,Medium,3,3,2,73,833,13709,Declining,3518,8225,Falling,4.3,1744,15,19846,2025-01-27,Low,Difficult,parking shortage,
+AREA_194,Sector 13 Karnal Zone 2,Zirakpur,Urban,Commercial,142755,55,22,6,7,3,5,4,269,126,High,5,5,4,139,873,31746,Stable,7947,19047,Rising,3.5,1364,22,35834,2025-01-02,High,Easy,parking shortage,19
+AREA_195,Gharaunda Zone 2,Shimla,Semi-Urban,Mixed,147855,25,8,8,1,5,3,3,75,48,Medium,3,4,2,27,1085,15706,Growing,4011,9423,Stable,4.3,674,8,31247,2025-01-06,Low,Moderate,High rent,0
+AREA_196,Nilokheri Zone 2,Karnal,Semi-Urban,Mixed,142156,32,15,7,3,2,2,5,103,40,Medium,3,4,2,57,631,21479,Declining,4906,12887,Rising,3.3,502,15,25022,2025-01-19,Low,Difficult,High rent,11
+AREA_197,Sector 17 Market Zone 3,Patiala,Rural,Commercial,144852,12,5,7,3,4,,1,25,8,Low,3,3,3,10,Rs 1421,6920,Declining,2578,4152,Falling,3.5,,5,11515,2025-01-28,Low,,parking shortage,
+AREA_198,Sector 22 Zone 3,Panchkula,Urban,Residential,143483,11,6,11,8,6,4,1,21,14,Medium,4,4,4,9,1139,8927,Stable,2106,5356,Rising,3.7,1137,6,35121,2025-01-19,Low,Moderate,parking shortage,12
+AREA_199,Sector 35 Zone 3,Jalandhar,Semi-Urban,Residential,,,,,4,5,,NA,,52,,6,4,,,,,,,,Rising,,,,,,Low,,,
+AREA_200,Sector 43 Zone 3,Patiala,Urban,Commercial,,61,21,,5,4,,5,~208,100,High,4,5,3,,,43216,,6480/-,,Stable,3.6,,,42836,15-01-2025,Low,,,

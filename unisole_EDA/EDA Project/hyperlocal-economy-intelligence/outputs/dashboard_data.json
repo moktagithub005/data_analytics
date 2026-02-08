@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "total_areas": 200,
+    "high_potential": 34,
+    "avg_score": 55.61148571428571,
+    "top_city": "Ambala"
+  },
+  "top_10": [
+    {
+      "area_name": "Dera Bassi Industrial Zone 2",
+      "city": "Mohali",
+      "economic_health_score": 90.75
+    },
+    {
+      "area_name": "Sector 20",
+      "city": "Patiala",
+      "economic_health_score": 88.78
+    },
+    {
+      "area_name": "Patran Zone 2",
+      "city": "Ambala",
+      "economic_health_score": 87.37
+    },
+    {
+      "area_name": "Sector 15 Zone 2",
+      "city": "Mohali",
+      "economic_health_score": 87.27
+    },
+    {
+      "area_name": "Phillaur",
+      "city": "Chandigarh",
+      "economic_health_score": 87.04
+    },
+    {
+      "area_name": "Nakodar Zone 2",
+      "city": "Panchkula",
+      "economic_health_score": 86.47
+    },
+    {
+      "area_name": "Mullanpur Zone 2",
+      "city": "Ambala",
+      "economic_health_score": 83.63
+    },
+    {
+      "area_name": "Rajpura",
+      "city": "Panchkula",
+      "economic_health_score": 83.3
+    },
+    {
+      "area_name": "Sector 17 Market",
+      "city": "Patiala",
+      "economic_health_score": 82.0
+    },
+    {
+      "area_name": "Morinda Zone 2",
+      "city": "Mohali",
+      "economic_health_score": 81.13
+    }
+  ]
+}
