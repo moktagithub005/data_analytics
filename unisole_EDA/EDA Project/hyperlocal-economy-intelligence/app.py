@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import json
+from pathlib import Path
 
 # Page configuration
 st.set_page_config(
@@ -46,8 +47,17 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('hyperlocal_economy_processed.csv')
-    return df
+    app_dir = Path(__file__).resolve().parent
+    candidates = [
+        app_dir / "hyperlocal_economy_processed.csv",
+        app_dir / "data" / "hyperlocal_economy_processed.csv",
+    ]
+    for csv_path in candidates:
+        if csv_path.exists():
+            return pd.read_csv(csv_path)
+    raise FileNotFoundError(
+        "Could not find hyperlocal_economy_processed.csv in expected locations."
+    )
 
 df = load_data()
 
